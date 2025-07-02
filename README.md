@@ -1,2 +1,2 @@
 # PrincessJump
-degraded ass snake game
+degraded snake game
