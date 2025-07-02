@@ -1,2 +1,2 @@
 # PrincessJump
-degraded snake game
+A very degraded snake game :)
